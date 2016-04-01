@@ -1,0 +1,16 @@
+{
+    "assets": {
+        "container": {
+            "docker": {
+                "python-3-image": "python:3"
+            }
+        }
+    },
+    "cli": {
+        "binaries": {
+            "osx": {
+                "x86-64": "https://github.com/mesosphere/dcos-helloworld/raw/binary/binary/dcos-helloworld"
+            }
+        }
+    }
+}
