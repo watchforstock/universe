@@ -1,0 +1,5 @@
+{
+  "pip": [
+    "http://192.168.65.1:8000/dcos_kafka-0.2.3-py2.py3-none-any.whl"
+  ]
+}
